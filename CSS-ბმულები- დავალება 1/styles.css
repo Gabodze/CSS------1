@@ -1,0 +1,28 @@
+
+
+ a{
+    color: green ;
+    text-decoration: none;
+  }
+
+
+  a:visited {
+    color: blue;
+    font-size: 40px;
+  }
+
+  a:hover {
+    background-color: yellow;
+
+  }
+
+
+
+  a:active {
+    color: blueviolet;
+    background-color: black;
+    font-size: 50px;
+
+  } 
+
+ 
